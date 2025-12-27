@@ -16,5 +16,6 @@ Citation
 
 If you use RCSS in research or software, please cite:
 
-Nguyen, N. H. (2025). Rhino Credit Standard Specification (RCSS), Version 1.0. 
-GitHub repository: https://github.com/ngochongnguyenvonteam/rhino-credit-standard
+Nguyen, N. H. (2025). Rhino Credit Standard Specification (RCSS), Version 1.05. Zenodo. https://doi.org/10.5281/zenodo.18065603
+
+
