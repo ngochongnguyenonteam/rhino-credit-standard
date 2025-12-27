@@ -11,3 +11,10 @@ This repository contains the official Rhino Credit Standard Specification (RCSS)
 - 📄 [RCSS-v1.0.md](RCSS-v1.0.md)
 
 Feedback and issues are welcome via GitHub Issues.
+
+Citation
+
+If you use RCSS in research or software, please cite:
+
+Nguyen, N. H. (2025). Rhino Credit Standard Specification (RCSS), Version 1.0. 
+GitHub repository: https://github.com/ngochongnguyenvonteam/rhino-credit-standard
